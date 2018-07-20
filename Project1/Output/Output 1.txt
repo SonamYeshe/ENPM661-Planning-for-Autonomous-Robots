@@ -1,0 +1,32 @@
+Insert matrix [3x3] to be solved: [2 8 3; 1 6 4; 7 0 5]
+node #6 
+     1     2     3
+     8     0     4
+     7     6     5
+
+node #5:  
+     1     2     3
+     0     8     4
+     7     6     5
+
+node #4:  
+     0     2     3
+     1     8     4
+     7     6     5
+
+node #3:  
+     2     0     3
+     1     8     4
+     7     6     5
+
+node #2:  
+     2     8     3
+     1     0     4
+     7     6     5
+
+node #1:  
+     2     8     3
+     1     6     4
+     7     0     5
+
+Total loops are 5. 
